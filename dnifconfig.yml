@@ -1,0 +1,2 @@
+enrichment_plugin:
+  BADIPS_IP_SOURCE: https://www.badips.com/get/list/any/3?age=2d

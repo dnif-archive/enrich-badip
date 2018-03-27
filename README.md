@@ -23,9 +23,9 @@ https://github.com/dnif/enrich-badips
 
 1. #####    Login to your Data Store, A10 containers  
    ACCESS DNIF CONTAINER VIA SSH : [Click To Know How](https://dnif.it/docs/guides/tutorials/access-dnif-container-via-ssh.html)
-2. #####    Move to the ‘/dnif/<Deployment-key/enrichment_plugin’ folder path.
+2. #####    Move to the ‘/dnif/<Deployment-key/enrichment_plugins’ folder path.
 ```
-$cd /dnif/CnxxxxxxxxxxxxV8/enrichment_plugin/
+$cd /dnif/CnxxxxxxxxxxxxV8/enrichment_plugins/
 ```
 3. #####   Clone using the following command  
 ```  

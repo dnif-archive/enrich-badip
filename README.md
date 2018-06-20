@@ -29,7 +29,7 @@ $cd /dnif/CnxxxxxxxxxxxxV8/enrichment_plugin/
 ```
 3. #####   Clone using the following command  
 ```  
-git clone https://github.com/dnif/enrich-badips.git badips
+git clone https://github.com/dnif/enrich-badip.git badips
 ```
 ### API feed output structure
   | Fields        | Description  |

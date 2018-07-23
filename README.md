@@ -26,7 +26,7 @@ Outbound access required to request badips IP feed API
 ### Using the badips feed API
  The badips feed API is found on github at
 
-https://github.com/dnif/enrich-badips
+https://github.com/dnif/enrich-badip
 
 #### Getting started with badips feed API
 

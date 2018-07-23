@@ -13,6 +13,15 @@ This feed includes, but are not limited to
 - Form SPAM attempts 
 - (D)DOS attacks and so on and so forth.
 
+### PRE-REQUISITES to use badips IP feed API and DNIF  
+Outbound access required to request badips IP feed API 
+
+| Protocol   | Source IP  | Source Port  | Direction	 | Destination Domain | Destination Port  |  
+|:------------- |:-------------|:-------------|:-------------|:-------------|:-------------|  
+| TCP | AD,A10 | Any | Egress	| github.com | 443 |
+| TCP | AD,A10 | Any | Egress	| www.badips.com | 443 | 
+
+
 
 ### Using the badips feed API
  The badips feed API is found on github at
